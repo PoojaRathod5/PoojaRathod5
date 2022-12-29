@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PoojaRathod5
+- 👀 I’m interested in HTML, css , javascript, React
+- 🌱 I’m currently learning full stack web developement course
+- Ask me about my skill.
+- how to reach me-poojarathod8669@gmail.com 
