@@ -4,7 +4,7 @@
 - Ask me about my skill.
 - how to reach me : poojarathod8669@gmail.com 
 - <h3 align="left">Connect with me:</h3>
-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pooja Rathod" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/pooja-rathod-9a133323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pooja Rathod" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://PoojaRathod5.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
